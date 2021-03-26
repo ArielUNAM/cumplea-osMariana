@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: blanchedalmond;
+    position: sticky;
+    top: 0px;
+    height: 80px;
+    width: 100%;
+    float: top;
+    color: slategrey;
+    text-align: center;
+    border: 1px solid blueviolet;
+    
+}
+.h1-titulo
+{
+    top: 0px;
+    right: 50%;
+    left: 50%;
+}
+#cuerpo{
+    width: 80%;
+    margin: 0px auto;
+    border: 1px solid red;
+    text-align: center;
+}
+#ico-left{
+    position: absolute;
+    top:30%;
+    left: 0px;
+}
+#ico-right{
+    position: absolute;
+    top:30%;
+    right: 0px;
+}
+#sb-icons{
+    font-size: 1.5em;
+}
+#sb-left{
+    float: left;
+}
+#sb-right{
+    float: right;
+}
+.sliderbar{
+    width: 20%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-size: medium;
+    border: 1px solid orange;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
