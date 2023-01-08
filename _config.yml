@@ -12,7 +12,7 @@ lang: es-MX
 title: "aceron[\"blog\"]"
 
 # A description of your site for meta tag, search engine results.
-description: "Blog personal donde estaré subiendo de forma dominical diferentes publicaciones, posturas personales, conocimiento y códigos y herramientas libres para todo el mundo."
+description: "Blog personal donde estaré subiendo de forma dominical diferentes publicaciones, posturas personales, conocimiento, códigos y herramientas libres para todo el mundo."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -31,11 +31,11 @@ navigation:
   - text: Inicio
     url: /
   - text: Acerca del sitio
-    url: /about/
+    url: /about
   - text: Acerca del autor
-    url: /about-aceron/
+    url: /about-aceron
   - text: Categorias
-    url: /tags/
+    url: /tags
   # - text: Download
   #   url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
