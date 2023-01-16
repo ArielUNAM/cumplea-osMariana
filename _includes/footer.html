@@ -1,4 +1,9 @@
 <footer class="site-footer">
+  {% if page.description and page.description != "" %}
+    <div class="site-description fadeInDown delay_05s">
+      <p>{{ page.description  }}</p>
+    </div><!-- .site-description -->
+  {% endif %}
   <div class="offsite-links">
     {% if site.footer.has_social %}
       {% include social.html %}
@@ -10,4 +15,5 @@
     </div><!-- .site-info -->
     <a href="#page" id="back-to-top" class="back-to-top"><span class="screen-reader-text">Back to the top </span>&#8593;</a>
   </div><!-- .footer-bottom -->
+  
 </footer><!-- .site-footer -->
