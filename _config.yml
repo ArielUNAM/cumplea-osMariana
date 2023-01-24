@@ -12,7 +12,7 @@ lang: es-MX
 title: "aceron[\"blog\"]"
 
 # A description of your site for meta tag, search engine results.
-description: "Blog personal donde estaré subiendo de forma dominical diferentes publicaciones, posturas personales, conocimiento, códigos y herramientas libres para todo el mundo."
+description: "Blog dedicado a la ciencia y tecnología en español."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
